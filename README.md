@@ -1,9 +1,5 @@
 ## Hi, I'm Edina
 
-Computer Science student building ML and full‑stack projects around health tech, data, and practical tools.
-
----
-
 ### Technologies & tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
