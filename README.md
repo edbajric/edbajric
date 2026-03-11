@@ -41,19 +41,9 @@ Built a recommendation model on real fitness tracking data (3 788 samples) usi
 
 **Hand Gesture Controlled Robot (prototype)**  
 Robot prototype using OpenCV & MediaPipe to map hand gestures to robot movement; built under tight hardware and time constraints but successfully demonstrated basic gesture‑based control.  
-→ Repo: [SupplementRecsML](https://github.com/edbajric/MPProject)
-
----
-
-### Interests
-
-- Machine learning and data-driven systems, for practical, real-world use.  
-- Web development and product design with clean, usable interfaces.  
-- Data science and engineering for turning research and raw data into useful insights and projects.  
+→ Repo: [MPProject](https://github.com/edbajric/MPProject)
 
 ---
 ### Let’s connect
-
-I'm open to collaborating on interesting ML, web, or health‑tech projects, or just talking ideas.
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-4b6fff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edina.bajric@outlook.com)
