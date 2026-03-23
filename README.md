@@ -24,22 +24,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-
-### Projects
-
-**EndowherAI – Endometriosis & PCOS Symptom Tracking**  
-Currently working on privacy‑focused web app for tracking cycles, multidimensional symptoms, treatments, and self‑care over time, with an ML/analytics pipeline for interpretable insights into what actually helps. (In progress)  
-→ Repo: [EndowherAI](https://github.com/edbajric/EndowherAI)
-
-**ML‑Based Fitness Supplement Recommendation System**  
-Built a recommendation model on real fitness tracking data (3 788 samples) using Random Forest and Gradient Boosting, with feature engineering and proper cross‑validation.  
-→ Repo: [SupplementRecsML](https://github.com/edbajric/SupplementRecsML)
-
-**Hand Gesture Controlled Robot (prototype)**  
-Robot prototype using OpenCV & MediaPipe to map hand gestures to robot movement; built under tight hardware and time constraints but successfully demonstrated basic gesture‑based control.  
-→ Repo: [MPProject](https://github.com/edbajric/MPProject)
-
----
 ### Let’s connect
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-4b6fff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edina.bajric@outlook.com)
