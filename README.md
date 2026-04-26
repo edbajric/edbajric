@@ -1,7 +1,12 @@
 ## Hi, I'm Edina
 
-### Technologies & tools
+### Software Developer | ML | Healthcare AI | R&D | Web Dev
 
+I’m a CS student drawn to building systems that create meaningful contributions to society.
+
+---
+
+### Technologies & tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -13,7 +18,6 @@
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
 
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -21,7 +25,6 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST%20APIs-005571?style=flat)
-
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -31,16 +34,13 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c&logoColor=white)
@@ -49,6 +49,21 @@
 
 ---
 
-### Let’s connect
+### Featured projects
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-4b6fff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edina.bajric@outlook.com)
+#### EndowherAI
+
+EndowherAI is an ML-integrated web app tailored to track correlations between symptoms and remedies for women with PCOS and endometriosis in real time and contribute to the research of these under-researched health conditions.
+
+---
+
+#### Fitness supplement recommendation
+
+A machine learning–oriented project focused on analyzing supplement effectiveness and generating personalized recommendations based on fitness goals, training patterns, and user profiles.
+
+---
+
+### Let’s connect
+- LinkedIn: [linkedin.co](https://www.linkedin.com/in/edina-bajric/)
+- Portfolio: [edbajric.github.io](https://edbajric.github.io/)
+- Email: [edina.bajric@outlook.com](mailto:edina.bajric@outlook.com)
