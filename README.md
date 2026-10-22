@@ -1,8 +1,8 @@
 ## Hi, I'm Edina
 
-### Software Developer | ML | Healthcare AI | R&D | Web Dev
+### Software Developer | AI & Machine Learning
 
-I’m a CS student drawn to building systems that create meaningful contributions to society.
+I’m a AI and ML MSc student drawn to building systems that create meaningful contributions to society.
 
 ---
 
